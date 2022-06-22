@@ -1,5 +1,5 @@
 const MyFooter = () => {
-    return <header>footer</header>
+    return <header>footer</header>;
 };
 
-    export default MyFooter;
+export default MyFooter;
